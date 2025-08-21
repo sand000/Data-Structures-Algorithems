@@ -35,7 +35,7 @@ function AnimationComp() {
   return (
     <div>
       <div
-      
+      className="transition-opacity transform animate-ping duration-150 ease-in-out"
         style={{
           position: "relative",
           width: "100px",
